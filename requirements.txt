@@ -5,5 +5,5 @@ pandas
 plotly.express
 ipywidgets
 io
-ipywidgets statsmodels
+ipywidgets.statsmodels
 plotly.graph_objects
