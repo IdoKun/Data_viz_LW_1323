@@ -1,6 +1,11 @@
 #sys
 #io
-ipywidgets==8.0.2
-ipython==8.5.0
-pandas==1.4.4
-plotly==5.10.0
+#ipywidgets==8.0.2
+#ipython==8.5.0
+#pandas==1.4.4
+#plotly==5.10.0
+
+ipywidgets
+ipython
+pandas
+plotly
